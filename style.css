@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+table,th,td{
+    border: 1px solid black;
+}
+th{
+    color:blue;
+}
+li{
+    color:blueviolet;
+}
+p{
+    color:burlywood;
+    font-family: cursive;
+    font-size: 40px;
+}
